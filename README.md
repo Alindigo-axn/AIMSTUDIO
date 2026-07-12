@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="AIM Studio banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0a0a09?style=flat-square&logo=html5&logoColor=c8f53c" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-0a0a09?style=flat-square&logo=css3&logoColor=c8f53c" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-0a0a09?style=flat-square&logo=javascript&logoColor=c8f53c" alt="JavaScript">
+  <img src="https://img.shields.io/badge/dependencies-none-c8f53c?style=flat-square" alt="No dependencies">
+  <img src="https://img.shields.io/badge/languages-EN%20%C2%B7%20RU%20%C2%B7%20KZ-c8f53c?style=flat-square" alt="Languages">
+</p>
+
 # AIM Studio — Landing Page
 
 Одностраничный лендинг цифрового агентства **AIM Studio** (веб-разработка, UI/UX, мобильные приложения, брендинг, SEO, AI-интеграции). Полностью статичная страница на чистом HTML/CSS/JS, без сборщиков и фреймворков — открывается прямо в браузере.
